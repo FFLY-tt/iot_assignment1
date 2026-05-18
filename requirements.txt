@@ -1,0 +1,6 @@
+faust-streaming
+scikit-learn
+pandas
+joblib
+confluent-kafka
+certifi
